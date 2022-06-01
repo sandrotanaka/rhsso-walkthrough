@@ -1,6 +1,6 @@
 {
     "realm" : "demo",
-    "auth-server-url" : "https://keycloak-rh-sso.apps.cluster-ccxmj.ccxmj.sandbox1765.opentlc.com/auth",
+    "auth-server-url" : "https://keycloak-rh-sso.apps.cluster-k6j2d.k6j2d.sandbox1683.opentlc.com/auth",
     "ssl-required" : "external",
     "resource" : "js-console",
     "public-client" : true
